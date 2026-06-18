@@ -1,82 +1,52 @@
-# Mihlali Mdlangazi
+<div align="center">
 
-**SOFTWARE DEVELOPER | DATA ANALYST** | Khayelitsha, 7784
+## Hello, Potential Employer 👋
+**I am Mihlali Mdlangazi — Final-Year ICT Student | Applications Developer**
+**Cape Town, South Africa**
 
-[📧 222035749@mycput.ac.za](mailto:222035749@mycput.ac.za) | [📱 0760913647](tel:0760913647) | [🔗 LinkedIn](https://linkedin.com/in/mihlali-mdlangazi-94075b234) 
+![Java](https://img.shields.io/badge/Java-7F77DD?style=flat&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-534AB7?style=flat&logoColor=white)
+![React](https://img.shields.io/badge/React-7F77DD?style=flat&logoColor=white)
+![Python](https://img.shields.io/badge/Python-1B2A4A?style=flat&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1B2A4A?style=flat&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-534AB7?style=flat&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-7F77DD?style=flat&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-534AB7?style=flat&logoColor=white)
 
----
-
-## Professional Profile
-
-Final-year IT student with a strong foundation in software development, specializing in Java, Spring Boot, Python and object-oriented programming. Experienced in building web applications, integrating RESTful APIs, and applying problem-solving skills to develop efficient and scalable solutions. Eager to gain hands-on experience and contribute to a collaborative development team.
-
----
-
-## Education
-
-### Diploma in Information and Communication Technology (ICT)
-**Cape Peninsula University of Technology** | *2022 – Present*
+</div>
 
 ---
 
-## Technical Skills
-
-| Category | Skills |
-|----------|--------|
-| **Programming Languages** | Java, Python, JavaScript |
-| **Frameworks & Tools** | Spring Boot, Git, GitHub, Visual Studio Code |
-| **Web Technologies** | HTML, CSS, RESTful APIs |
-| **Databases** | SQL (basic) |
-| **Development Practices** | Object-Oriented Programming (OOP), Test-Driven Development (TDD) |
+### 👤 Who I am
+I am a final-year Applications Development student at Cape Peninsula University of Technology in Cape Town. I build backend systems, design APIs, and connect the dots between software, data, and real-world problems. Outside of code I am passionate about using technology to create opportunities for young people in Africa.
 
 ---
 
-## Soft Skills
-
-| | | |
-|-|-|-|
-| Problem-Solving | Report Writing | Analytical Thinking |
-| Team Collaboration | Communication | Adaptability |
+### 🛠 What I do
+I build backend systems using **Java 17** and **Spring Boot**, design RESTful APIs, and work with **PostgreSQL** databases. I apply test-driven development with JUnit, manage deployments on **AWS**, and containerise with **Docker**. On the frontend I work with **React**, **JavaScript**, HTML and CSS. I also explore **IoT** systems and work with **Python** for scripting and automation. Recently I completed an AI Skills Acceleration Programme through CAPACITI, working hands-on with tools like Claude and ChatGPT.
 
 ---
 
-## Experience
-
-### Developer - Anime Store (Capstone Project)
-**Academic Project | Cape Peninsula University of Technology** | *Feb 2026 – Present*
-
-- Developed and implemented RESTful APIs to enable seamless communication between frontend and backend systems
-- Improved application performance by revising and optimizing existing code
-- Applied Test-Driven Development (TDD) principles to enhance software quality
-- Delivered clean, maintainable, and efficient code aligned with project requirements
-
-### Front-End Developer - UniTrade Mobile App (Academic Project)
-**Cape Peninsula University of Technology** | *Jan 2026 – Nov 2026*
-
-- Built responsive and interactive user interfaces using HTML, CSS, and JavaScript
-- Collaborated with backend developers to integrate APIs and ensure system functionality
-- Enhanced user experience through visually appealing and user-friendly design
+### 🚀 What I aspire to do
+I want to grow into a software engineer who builds scalable, impactful systems that solve real problems on the African continent. I am driven by the intersection of AI and software engineering, and I aspire to eventually contribute to platforms that create economic opportunity and access for young people across Africa. I am actively seeking internship, WIL, and graduate opportunities where I can contribute, learn, and grow fast.
 
 ---
 
-## Certificates
+### 📂 Featured Projects
 
-| Certificate | Issuing Platform |
-|------------|------------------|
-| Project Management - Technical Projects | LinkedIn Learning |
-| SQL Tips and Tricks for Data Science | LinkedIn Learning |
-| SQL Essential Training | LinkedIn Learning |
-| Programming Foundation: Databases | LinkedIn Learning |
-| Lo-Hi to Hi-Fi Figma Prototyping | LinkedIn Learning |
+| Project | Description | Stack |
+|---|---|---|
+| 🎌 [AnimeStore](https://github.com/MihlaliMdlangazi/AnimeStore) | Full-stack anime branded online store selling products and services. Built collaboratively by a team of 5 with a Java Spring Boot backend, PostgreSQL, TDD with JUnit, and a React frontend. | Java, Spring Boot, React, PostgreSQL, JUnit |
+| 🛒 [UniTrade](https://github.com/MihlaliMdlangazi/UniTrade) | Web-based student marketplace for CPUT students to buy and sell goods. Spring Boot backend with a JavaScript, HTML, and CSS frontend. | Spring Boot, JavaScript, HTML, CSS |
 
 ---
 
- Career Objectives
-
-- Aiming to design and develop scalable, efficient, and user-focused applications
-- Seeking to grow within a collaborative and agile development environment
-- Long-term goal of becoming a well-rounded developer who adds value to high-performing teams
+### 📌 Currently
+- 🎓 Final year at CPUT
+- 🌍 Based in Cape Town
+- 🤖 Exploring applied AI
+- 💼 Open to opportunities
 
 ---
 
-
+📫 mihlalimdlangazi@gmail.com · 076 091 3647
