@@ -1,15 +1,12 @@
 <div align="center">
 
-## Hello, Potential Employer 👋
-**I am Mihlali Mdlangazi — Final-Year ICT Student | Applications Developer**
-**Cape Town, South Africa**
+## Hi, I am Mihlali 👋
+**Final-Year ICT Student · Cape Town, South Africa**
 
 ![Java](https://img.shields.io/badge/Java-7F77DD?style=flat&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-534AB7?style=flat&logoColor=white)
-![React](https://img.shields.io/badge/React-7F77DD?style=flat&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-1B2A4A?style=flat&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1B2A4A?style=flat&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-534AB7?style=flat&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-7F77DD?style=flat&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-534AB7?style=flat&logoColor=white)
 
@@ -23,7 +20,7 @@ I am a final-year Applications Development student at Cape Peninsula University 
 ---
 
 ### 🛠 What I do
-I build backend systems using **Java 17** and **Spring Boot**, design RESTful APIs, and work with **PostgreSQL** databases. I apply test-driven development with JUnit, manage deployments on **AWS**, and containerise with **Docker**. On the frontend I work with **React**, **JavaScript**, HTML and CSS. I also explore **IoT** systems and work with **Python** for scripting and automation. Recently I completed an AI Skills Acceleration Programme through CAPACITI, working hands-on with tools like Claude and ChatGPT.
+I build backend systems using **Java 17** and **Spring Boot**, design RESTful APIs, and work with **PostgreSQL** databases. I apply test-driven development with JUnit, manage deployments on **AWS**, and containerise with **Docker**. I also explore **IoT** systems and work with **Python** for scripting and automation. Recently I completed an AI Skills Acceleration Programme through CAPACITI, working hands-on with tools like Claude and ChatGPT.
 
 ---
 
@@ -36,8 +33,8 @@ I want to grow into a software engineer who builds scalable, impactful systems t
 
 | Project | Description | Stack |
 |---|---|---|
-| 🎌 [AnimeStore](https://github.com/MihlaliMdlangazi/AnimeStore) | Full-stack anime branded online store selling products and services. Built collaboratively by a team of 5 with a Java Spring Boot backend, PostgreSQL, TDD with JUnit, and a React frontend. | Java, Spring Boot, React, PostgreSQL, JUnit |
-| 🛒 [UniTrade](https://github.com/MihlaliMdlangazi/UniTrade) | Web-based student marketplace for CPUT students to buy and sell goods. Spring Boot backend with a JavaScript, HTML, and CSS frontend. | Spring Boot, JavaScript, HTML, CSS |
+| 🎌 [AnimeStore](https://github.com/MihlaliMdlangazi/AnimeStore) | Collaborative capstone backend system with RESTful APIs, PostgreSQL, TDD, and CI/CD via GitHub Actions. Deployed on AWS with Docker. | Java, Spring Boot, PostgreSQL, JUnit |
+| 🛒 [UniTrade](https://github.com/MihlaliMdlangazi/UniTrade) | Web-based student marketplace for CPUT students to buy and sell goods. Built collaboratively using Agile, REST APIs, and Git. | HTML, REST APIs, Agile, Git |
 
 ---
 
