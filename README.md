@@ -34,7 +34,7 @@ As part of my work readiness training, I participated in a mock interview to imp
 Download my latest CV below:
 
 📥 **Download My CV**  
-[Download CV](INSERT_CV_LINK_HERE)
+[Download My CV](Mihlali_Mdlangazi_CV_.pdf)
 
 ---
 
