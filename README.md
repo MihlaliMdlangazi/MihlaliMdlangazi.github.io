@@ -25,7 +25,7 @@ I am currently seeking internship, graduate, and Work Integrated Learning (WIL) 
 As part of my work readiness training, I participated in a mock interview to improve my communication, confidence, and professional interview skills.
 
 ▶️ **Watch the Mock Interview Video:**  
-[Insert Mock Interview Video Link Here]
+[Mock Interview Video](INSERT_VIDEO_LINK_HERE)
 
 ---
 
@@ -34,32 +34,37 @@ As part of my work readiness training, I participated in a mock interview to imp
 Download my latest CV below:
 
 📥 **Download My CV**  
-[Insert CV Link Here]
+[Download CV](INSERT_CV_LINK_HERE)
 
 ---
 
 ## 💻 Technical Skills
 
 ### Programming Languages
+
 - Java
 - Python
 - JavaScript
 - SQL
 
 ### Frameworks & Technologies
+
 - Spring Boot
 - REST APIs
 
 ### Databases
+
 - PostgreSQL
 - MySQL
 
 ### Tools
+
 - Git
 - GitHub
 - Postman
 
 ### Methodologies
+
 - Agile Development
 - Scrum
 - Test-Driven Development (TDD)
@@ -73,6 +78,7 @@ Download my latest CV below:
 A collaborative software development project focused on backend application development. The project involved designing APIs, working with databases, applying software engineering principles, and collaborating within a development team.
 
 **Technologies Used**
+
 - Java
 - Spring Boot
 - PostgreSQL
@@ -85,6 +91,7 @@ A collaborative software development project focused on backend application deve
 A student marketplace application developed to support buying and selling among university students. The project involved requirements gathering, software design, development, testing, and teamwork using Agile practices.
 
 **Technologies Used**
+
 - HTML
 - JavaScript
 - SQL
@@ -115,7 +122,7 @@ Successfully completed training focused on:
 **Applications Development**  
 2022 – Present
 
-Current Status: Final-Year Student
+**Current Status:** Final-Year Student
 
 ---
 
@@ -131,80 +138,38 @@ I am currently focusing on:
 
 ---
 
-# Reflection on Coding My CV Using Markdown (STAR Method)
+# Reflection on Coding My CV Using Markdown
 
-## Situation
-
-As part of the Work Readiness Programme, I was required to create a professional digital portfolio and present my CV using GitHub Markdown.
-
-## Task
-
-My task was to learn Markdown syntax and apply it to create a professional, structured, and easy-to-read online CV and portfolio.
-
-## Action
-
-I researched GitHub Flavoured Markdown and used headings, lists, hyperlinks, formatting tools, and structured sections to organize my information professionally.
-
-## Result
-
-I successfully created a professional digital portfolio that showcases my skills, education, and career aspirations while improving my technical documentation and presentation abilities.
+Creating my digital portfolio required me to learn how to use GitHub Flavoured Markdown to present information in a professional and structured manner. My goal was to transform my traditional CV into a format that could be viewed online while remaining clear, organised, and visually appealing. To achieve this, I researched Markdown syntax and applied features such as headings, lists, hyperlinks, and formatting tools to organise my content effectively. Through this process, I improved my technical documentation skills and gained a better understanding of how developers use Markdown to communicate information professionally. The completed portfolio successfully showcases my skills, education, and career aspirations in an accessible online format.
 
 ---
 
-# Reflection on Mock Interview Experience (STAR Method)
+# Reflection on Mock Interview Experience
 
-## Situation
-
-I participated in a mock interview as part of the Work Readiness Programme to prepare for future internship and graduate opportunities.
-
-## Task
-
-My objective was to improve my communication skills, interview confidence, and ability to present myself professionally to employers.
-
-## Action
-
-I prepared responses to common interview questions, practiced professional communication, and reflected on my strengths and areas for improvement.
-
-## Result
-
-The experience improved my confidence, strengthened my communication skills, and helped me become better prepared for real-world interviews and recruitment processes.
+Participating in the mock interview provided an opportunity to prepare for real-world recruitment processes and improve my professional communication skills. I focused on presenting myself confidently, answering questions clearly, and demonstrating my strengths and career goals. Preparing for the interview encouraged me to reflect on my experiences, achievements, and areas for growth. The experience increased my confidence, improved my ability to communicate professionally, and highlighted areas where I can continue developing as I prepare for internship and graduate opportunities.
 
 ---
 
-# Reflection on GitHub Pages (STAR Method)
+# Reflection on Using GitHub Pages
 
-## Situation
-
-I was required to publish my digital portfolio online using GitHub Pages.
-
-## Task
-
-My task was to create a publicly accessible portfolio that showcases my work readiness training, professional profile, and supporting evidence.
-
-## Action
-
-I created a GitHub repository, organized my portfolio using Markdown, uploaded the required artefacts, and deployed the project using GitHub Pages.
-
-## Result
-
-I successfully published my portfolio online and gained practical experience using GitHub Pages, version control, and professional online portfolio development.
+Publishing my portfolio using GitHub Pages allowed me to gain practical experience in deploying a professional online presence. I organised my portfolio content, uploaded the required artefacts, and configured GitHub Pages to make the site publicly accessible. Throughout the process, I learned more about version control, repository management, and website deployment. Successfully publishing the portfolio demonstrated how GitHub can be used not only for software development projects but also as a platform for showcasing professional achievements and career readiness.
 
 ---
 
 ## 🤝 Connect With Me
 
-📧 Email: mihlalimdlangazi@gmail.com
+📧 **Email:** mihlalimdlangazi@gmail.com
 
-💼 LinkedIn:  
-[www.linkedin.com/in/mihlali-mdlangazi-94075b234]
+💼 **LinkedIn:**  
+[(www.linkedin.com/in/mihlali-mdlangazi-94075b234)]
 
-💻 GitHub:  
-[(https://github.com/MihlaliMdlangazi)]
+💻 **GitHub:**  
+  [(https://github.com/MihlaliMdlangazi)]
 
-📍 Cape Town, South Africa
+📍 **Cape Town, South Africa**
 
 ---
 
-### Thank You For Visiting My Portfolio
+## Thank You For Visiting My Portfolio
 
 Thank you for taking the time to view my portfolio. I look forward to opportunities where I can apply my skills, continue learning, and contribute positively to innovative technology teams.
