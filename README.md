@@ -73,11 +73,6 @@ A student marketplace project developed using software engineering principles, d
 
 ---
 
-## 📄 Download CV
-
-📥 [Download My CV](./Mihlali_Mdlangazi_CV_.pdf)
-
----
 
 ## Reflection on Coding My CV Using Markdown
 
