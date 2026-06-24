@@ -1,49 +1,210 @@
-<div align="center">
+# Hello, I'm Mihlali Mdlangazi 👋
 
-## Hi, I am Mihlali 👋
-**Final-Year ICT Student · Cape Town, South Africa**
+### Final-Year ICT Applications Development Student | Aspiring Software Developer & Data Analyst
 
-![Java](https://img.shields.io/badge/Java-7F77DD?style=flat&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-534AB7?style=flat&logoColor=white)
-![Python](https://img.shields.io/badge/Python-1B2A4A?style=flat&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1B2A4A?style=flat&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-7F77DD?style=flat&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-534AB7?style=flat&logoColor=white)
-
-</div>
+📍 Cape Town, South Africa  
+📧 mihlalimdlangazi@gmail.com  
+📱 076 091 3647
 
 ---
 
-### 👤 Who I am
-I am a final-year Applications Development student at Cape Peninsula University of Technology in Cape Town. I build backend systems, design APIs, and connect the dots between software, data, and real-world problems. Outside of code I am passionate about using technology to create opportunities for young people in Africa.
+## 👤 About Me
+
+I am a final-year Information and Communication Technology (Applications Development) student at the Cape Peninsula University of Technology (CPUT).
+
+I am passionate about software development, data analysis, and solving real-world problems through technology. Throughout my studies, I have gained practical experience in software design, backend development, database management, testing, and collaborative software development.
+
+I enjoy learning new technologies, working in teams, and continuously improving my technical and professional skills. My goal is to grow into a software engineer who builds impactful solutions that create opportunities and improve lives across Africa.
+
+I am currently seeking internship, graduate, and Work Integrated Learning (WIL) opportunities where I can contribute, learn, and grow as a technology professional.
 
 ---
 
-### 🛠 What I do
-I build backend systems using **Java 17** and **Spring Boot**, design RESTful APIs, and work with **PostgreSQL** databases. I apply test-driven development with JUnit, manage deployments on **AWS**, and containerise with **Docker**. I also explore **IoT** systems and work with **Python** for scripting and automation. Recently I completed an AI Skills Acceleration Programme through CAPACITI, working hands-on with tools like Claude and ChatGPT.
+## 🎥 Mock Interview Video
+
+As part of my work readiness training, I participated in a mock interview to improve my communication, confidence, and professional interview skills.
+
+▶️ **Watch the Mock Interview Video:**  
+[Insert Mock Interview Video Link Here]
 
 ---
 
-### 🚀 What I aspire to do
-I want to grow into a software engineer who builds scalable, impactful systems that solve real problems on the African continent. I am driven by the intersection of AI and software engineering, and I aspire to eventually contribute to platforms that create economic opportunity and access for young people across Africa. I am actively seeking internship, WIL, and graduate opportunities where I can contribute, learn, and grow fast.
+## 📄 Curriculum Vitae
+
+Download my latest CV below:
+
+📥 **Download My CV**  
+[Insert CV Link Here]
 
 ---
 
-### 📂 Featured Projects
+## 💻 Technical Skills
 
-| Project | Description | Stack |
-|---|---|---|
-| 🎌 [AnimeStore](https://github.com/MihlaliMdlangazi/AnimeStore) | Collaborative capstone backend system with RESTful APIs, PostgreSQL, TDD, and CI/CD via GitHub Actions. Deployed on AWS with Docker. | Java, Spring Boot, PostgreSQL, JUnit |
-| 🛒 [UniTrade](https://github.com/MihlaliMdlangazi/UniTrade) | Web-based student marketplace for CPUT students to buy and sell goods. Built collaboratively using Agile, REST APIs, and Git. | HTML, REST APIs, Agile, Git |
+### Programming Languages
+- Java
+- Python
+- JavaScript
+- SQL
+
+### Frameworks & Technologies
+- Spring Boot
+- REST APIs
+
+### Databases
+- PostgreSQL
+- MySQL
+
+### Tools
+- Git
+- GitHub
+- Postman
+
+### Methodologies
+- Agile Development
+- Scrum
+- Test-Driven Development (TDD)
 
 ---
 
-### 📌 Currently
-- 🎓 Final year at CPUT
-- 🌍 Based in Cape Town
-- 🤖 Exploring applied AI
-- 💼 Open to opportunities
+## 📂 Featured Academic Projects
+
+### 🎌 AnimeStore
+
+A collaborative software development project focused on backend application development. The project involved designing APIs, working with databases, applying software engineering principles, and collaborating within a development team.
+
+**Technologies Used**
+- Java
+- Spring Boot
+- PostgreSQL
+- Git
 
 ---
 
-📫 mihlalimdlangazi@gmail.com · 076 091 3647
+### 🛒 UniTrade
+
+A student marketplace application developed to support buying and selling among university students. The project involved requirements gathering, software design, development, testing, and teamwork using Agile practices.
+
+**Technologies Used**
+- HTML
+- JavaScript
+- SQL
+- Git
+
+---
+
+## 🏆 Training and Professional Development
+
+### CAPACITI AI Skills Acceleration Programme
+
+Successfully completed training focused on:
+
+- Artificial Intelligence Fundamentals
+- Prompt Engineering
+- Professional Communication
+- Workplace Readiness
+- Digital Collaboration Tools
+- Problem Solving and Critical Thinking
+
+---
+
+## 🎓 Education
+
+### Cape Peninsula University of Technology (CPUT)
+
+**Diploma in Information and Communication Technology**  
+**Applications Development**  
+2022 – Present
+
+Current Status: Final-Year Student
+
+---
+
+## 📈 Current Focus
+
+I am currently focusing on:
+
+- Completing my Diploma in ICT Applications Development
+- Strengthening my software development skills
+- Expanding my knowledge of Data Analysis and Artificial Intelligence
+- Building professional industry experience
+- Preparing for internship, graduate, and WIL opportunities
+
+---
+
+# Reflection on Coding My CV Using Markdown (STAR Method)
+
+## Situation
+
+As part of the Work Readiness Programme, I was required to create a professional digital portfolio and present my CV using GitHub Markdown.
+
+## Task
+
+My task was to learn Markdown syntax and apply it to create a professional, structured, and easy-to-read online CV and portfolio.
+
+## Action
+
+I researched GitHub Flavoured Markdown and used headings, lists, hyperlinks, formatting tools, and structured sections to organize my information professionally.
+
+## Result
+
+I successfully created a professional digital portfolio that showcases my skills, education, and career aspirations while improving my technical documentation and presentation abilities.
+
+---
+
+# Reflection on Mock Interview Experience (STAR Method)
+
+## Situation
+
+I participated in a mock interview as part of the Work Readiness Programme to prepare for future internship and graduate opportunities.
+
+## Task
+
+My objective was to improve my communication skills, interview confidence, and ability to present myself professionally to employers.
+
+## Action
+
+I prepared responses to common interview questions, practiced professional communication, and reflected on my strengths and areas for improvement.
+
+## Result
+
+The experience improved my confidence, strengthened my communication skills, and helped me become better prepared for real-world interviews and recruitment processes.
+
+---
+
+# Reflection on GitHub Pages (STAR Method)
+
+## Situation
+
+I was required to publish my digital portfolio online using GitHub Pages.
+
+## Task
+
+My task was to create a publicly accessible portfolio that showcases my work readiness training, professional profile, and supporting evidence.
+
+## Action
+
+I created a GitHub repository, organized my portfolio using Markdown, uploaded the required artefacts, and deployed the project using GitHub Pages.
+
+## Result
+
+I successfully published my portfolio online and gained practical experience using GitHub Pages, version control, and professional online portfolio development.
+
+---
+
+## 🤝 Connect With Me
+
+📧 Email: mihlalimdlangazi@gmail.com
+
+💼 LinkedIn:  
+[www.linkedin.com/in/mihlali-mdlangazi-94075b234]
+
+💻 GitHub:  
+[(https://github.com/MihlaliMdlangazi)]
+
+📍 Cape Town, South Africa
+
+---
+
+### Thank You For Visiting My Portfolio
+
+Thank you for taking the time to view my portfolio. I look forward to opportunities where I can apply my skills, continue learning, and contribute positively to innovative technology teams.
